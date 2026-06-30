@@ -1,4 +1,6 @@
 # project1
+this is my git practice project
+
 About:
 This project was created as part of my learning journey to improve my programming skills and gain hands-on experience with GitHub and software development.
 
